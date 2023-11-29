@@ -38,6 +38,7 @@ main input[type="text"] {
     margin-right: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    margin-bottom: 25px;
 }
 
 main button {
